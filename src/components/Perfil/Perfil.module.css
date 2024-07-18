@@ -1,0 +1,14 @@
+.header {
+  background-color: var(--primaryColor);
+  color: var(--secundaryColor);
+  text-align: center;
+}
+.imageProfile {
+  width: 300px;
+  border-radius: 50%;
+  margin: 32px 0 0;
+}
+
+.name {
+  padding: 8px 0 32px;
+}
